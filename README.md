@@ -1,6 +1,6 @@
-I spent 10 years in NGOs — including wearing a life-sized fish costume. Then I built marketing systems at a tech company. Now I'm open-sourcing what I learned.
+✧˖°. Grug-brained marketer. I build tools, write things, and share what I learn at risu.pl
 
-**What I'm building:** [SkillCraft](https://github.com/risukisu/skillcraft-growth-plan) · GA4 Analyzer · [The Grug-Brained Marketer](https://grugbrained.substack.com)
+**What I'm building:** [SkillCraft](https://github.com/risukisu/skillcraft-growth-plan) · GA4 Analyzer (work-in-progress) · [The Grug-Brained Marketer](https://grugbrained.substack.com)
 
 **What I believe:** Complex marketing explained simply. First principles over frameworks. Ship before it's perfect.
 
